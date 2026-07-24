@@ -1,0 +1,16 @@
+Directory Path : Directory1
+Total Files : 0
+Date and Time : 2026-07-23 22:44:51.567443
+---------------------------------
+Directory Path : Directory1
+Total Files : 0
+Date and Time : 2026-07-23 22:44:56.573715
+---------------------------------
+Directory Path : Directory1
+Total Files : 0
+Date and Time : 2026-07-23 22:45:01.584270
+---------------------------------
+Directory Path : Directory1
+Total Files : 0
+Date and Time : 2026-07-23 22:45:06.590208
+---------------------------------
