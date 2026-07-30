@@ -1,0 +1,1196 @@
+--------------------------------------------------
+---- MARVELLOUS PLATFORM SURVILLRNCE SYSTEM ----
+Lof file gets created at:2026-07-30_22-10-22
+--------------------------------------------------
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+PID : 92
+Name : 
+Username : None
+--------------------------------------------------
+PID : 136
+Name : Registry
+Username : None
+--------------------------------------------------
+PID : 256
+Name : WidgetService.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 296
+Name : ZVMOUNT.EXE
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 444
+Name : dasHost.exe
+Username : None
+--------------------------------------------------
+PID : 572
+Name : wininit.exe
+Username : None
+--------------------------------------------------
+PID : 636
+Name : smss.exe
+Username : None
+--------------------------------------------------
+PID : 780
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 940
+Name : WmiPrvSE.exe
+Username : None
+--------------------------------------------------
+PID : 952
+Name : csrss.exe
+Username : None
+--------------------------------------------------
+PID : 1064
+Name : services.exe
+Username : None
+--------------------------------------------------
+PID : 1084
+Name : LsaIso.exe
+Username : None
+--------------------------------------------------
+PID : 1092
+Name : lsass.exe
+Username : None
+--------------------------------------------------
+PID : 1116
+Name : MemCompression
+Username : None
+--------------------------------------------------
+PID : 1120
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 1148
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1204
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 1224
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1260
+Name : fontdrvhost.exe
+Username : None
+--------------------------------------------------
+PID : 1336
+Name : WUDFHost.exe
+Username : None
+--------------------------------------------------
+PID : 1376
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1396
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1444
+Name : IntelCpHDCPSvc.exe
+Username : None
+--------------------------------------------------
+PID : 1448
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1608
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1616
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1716
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1724
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1732
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1764
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1864
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1876
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1896
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 1948
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2036
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2064
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2076
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 2108
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2248
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 2280
+Name : taskhostw.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 2312
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2428
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2540
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2580
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2612
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2628
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2708
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2728
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2748
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2776
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2784
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2792
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2856
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 2860
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 2872
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 2996
+Name : PROCES~2.EXE
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 3080
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3192
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3204
+Name : igfxCUIServiceN.exe
+Username : None
+--------------------------------------------------
+PID : 3268
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3276
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3304
+Name : AppHelperCap.exe
+Username : None
+--------------------------------------------------
+PID : 3312
+Name : DiagsCap.exe
+Username : None
+--------------------------------------------------
+PID : 3324
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3340
+Name : NetworkCap.exe
+Username : None
+--------------------------------------------------
+PID : 3348
+Name : SysInfoCap.exe
+Username : None
+--------------------------------------------------
+PID : 3356
+Name : TouchpointAnalyticsClientService.exe
+Username : None
+--------------------------------------------------
+PID : 3392
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 3504
+Name : WUDFHost.exe
+Username : None
+--------------------------------------------------
+PID : 3544
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3580
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3684
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 3744
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3804
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 3980
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4152
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4172
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 4308
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4344
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4408
+Name : WUDFHost.exe
+Username : None
+--------------------------------------------------
+PID : 4464
+Name : NgcIso.exe
+Username : None
+--------------------------------------------------
+PID : 4532
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4588
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4620
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4648
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 4728
+Name : spoolsv.exe
+Username : None
+--------------------------------------------------
+PID : 4768
+Name : WmiPrvSE.exe
+Username : None
+--------------------------------------------------
+PID : 4784
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4872
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4896
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 4956
+Name : unsecapp.exe
+Username : None
+--------------------------------------------------
+PID : 5144
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 5180
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5212
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5232
+Name : ETDService.exe
+Username : None
+--------------------------------------------------
+PID : 5284
+Name : nssm.exe
+Username : None
+--------------------------------------------------
+PID : 5320
+Name : HPCommRecovery.exe
+Username : None
+--------------------------------------------------
+PID : 5336
+Name : HPPrintScanDoctorService.exe
+Username : None
+--------------------------------------------------
+PID : 5352
+Name : OneApp.IGCC.WinService.exe
+Username : None
+--------------------------------------------------
+PID : 5376
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5384
+Name : IntelAudioService.exe
+Username : None
+--------------------------------------------------
+PID : 5400
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5404
+Name : jhi_service.exe
+Username : None
+--------------------------------------------------
+PID : 5488
+Name : SafeExamBrowser.Service.exe
+Username : None
+--------------------------------------------------
+PID : 5556
+Name : WEBPROT2.EXE
+Username : None
+--------------------------------------------------
+PID : 5580
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 5588
+Name : NPBKPSRV.EXE
+Username : None
+--------------------------------------------------
+PID : 5652
+Name : NPProt.exe
+Username : None
+--------------------------------------------------
+PID : 5664
+Name : pg_ctl.exe
+Username : None
+--------------------------------------------------
+PID : 5676
+Name : RtkAudUService64.exe
+Username : None
+--------------------------------------------------
+PID : 5696
+Name : RstMwService.exe
+Username : None
+--------------------------------------------------
+PID : 5712
+Name : RtkBtManServ.exe
+Username : None
+--------------------------------------------------
+PID : 5720
+Name : SECOMN64.exe
+Username : None
+--------------------------------------------------
+PID : 5744
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5780
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5788
+Name : vmware-authd.exe
+Username : None
+--------------------------------------------------
+PID : 5808
+Name : vmware-usbarbitrator64.exe
+Username : None
+--------------------------------------------------
+PID : 5832
+Name : MpDefenderCoreService.exe
+Username : None
+--------------------------------------------------
+PID : 5840
+Name : vmnetdhcp.exe
+Username : None
+--------------------------------------------------
+PID : 5848
+Name : vmnat.exe
+Username : None
+--------------------------------------------------
+PID : 5884
+Name : mongod.exe
+Username : None
+--------------------------------------------------
+PID : 5916
+Name : MsMpEng.exe
+Username : None
+--------------------------------------------------
+PID : 5924
+Name : WMIRegistrationService.exe
+Username : None
+--------------------------------------------------
+PID : 5936
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 5948
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 6360
+Name : esif_uf.exe
+Username : None
+--------------------------------------------------
+PID : 6376
+Name : expressvpnd.exe
+Username : None
+--------------------------------------------------
+PID : 6416
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 6700
+Name : SECOCL64.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 6816
+Name : ExpressVPNNotificationService.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 6888
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 7000
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 7396
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 7404
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 7604
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 7628
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 7700
+Name : OneDrive.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 7748
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 7800
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 7812
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 8096
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 8104
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 8112
+Name : postgres.exe
+Username : None
+--------------------------------------------------
+PID : 8160
+Name : dasHost.exe
+Username : None
+--------------------------------------------------
+PID : 8276
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 8336
+Name : jusched.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 8420
+Name : EMON.EXE
+Username : None
+--------------------------------------------------
+PID : 8428
+Name : AggregatorHost.exe
+Username : None
+--------------------------------------------------
+PID : 8564
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 8780
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 8788
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 8796
+Name : FileSyncHelper.exe
+Username : None
+--------------------------------------------------
+PID : 8872
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9044
+Name : vmware-tray.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9296
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9376
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 9480
+Name : RtkAudUService64.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9536
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 9584
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 9644
+Name : GZIP.EXE
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9908
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 9948
+Name : HPMediaNetwork.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 10060
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 10088
+Name : ShellHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 10200
+Name : NPHOST.EXE
+Username : None
+--------------------------------------------------
+PID : 10252
+Name : TextInputHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 10732
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 10860
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 10944
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 10948
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 11012
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 11280
+Name : ETDCtrl.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 11332
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 11364
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 12048
+Name : TiWorker.exe
+Username : None
+--------------------------------------------------
+PID : 12064
+Name : CrossDeviceResume.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 12072
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 12516
+Name : ZVMonNt.exe
+Username : None
+--------------------------------------------------
+PID : 12924
+Name : StartMenuExperienceHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13052
+Name : conhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13080
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13088
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13248
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13384
+Name : NisSrv.exe
+Username : None
+--------------------------------------------------
+PID : 13404
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 13420
+Name : winlogon.exe
+Username : None
+--------------------------------------------------
+PID : 13560
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 13580
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 13604
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13624
+Name : csrss.exe
+Username : None
+--------------------------------------------------
+PID : 13776
+Name : browserhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13792
+Name : AppActions.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13812
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 13896
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 14000
+Name : APCONSVC.EXE
+Username : None
+--------------------------------------------------
+PID : 14276
+Name : pet.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 14540
+Name : jucheck.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15208
+Name : ZVCMD64.EXE
+Username : None
+--------------------------------------------------
+PID : 15220
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 15248
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15320
+Name : SecurityHealthService.exe
+Username : None
+--------------------------------------------------
+PID : 15332
+Name : OfficeClickToRun.exe
+Username : None
+--------------------------------------------------
+PID : 15412
+Name : MoUsoCoreWorker.exe
+Username : None
+--------------------------------------------------
+PID : 15544
+Name : DesktopExtension.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15628
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15840
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15876
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 15984
+Name : sihost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 15996
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 16096
+Name : TrustedInstaller.exe
+Username : None
+--------------------------------------------------
+PID : 16100
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 16420
+Name : explorer.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 16660
+Name : dwm.exe
+Username : None
+--------------------------------------------------
+PID : 17028
+Name : RuntimeBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17048
+Name : ShellExperienceHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17192
+Name : OpenConsole.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17252
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17256
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17312
+Name : powershell.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17416
+Name : UserOOBEBroker.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 17900
+Name : RtkAudUService64.exe
+Username : None
+--------------------------------------------------
+PID : 17968
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18084
+Name : wimserv.exe
+Username : None
+--------------------------------------------------
+PID : 18384
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18556
+Name : LockApp.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18604
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18736
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18784
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18836
+Name : conhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 18920
+Name : ctfmon.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 19060
+Name : NPAV4.EXE
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 19388
+Name : WidgetBoard.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 19488
+Name : uihost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 19720
+Name : NPAVIDS.EXE
+Username : None
+--------------------------------------------------
+PID : 19980
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 20112
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 20116
+Name : servicehost.exe
+Username : None
+--------------------------------------------------
+PID : 20252
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 20848
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 20980
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 21316
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 21332
+Name : SearchIndexer.exe
+Username : None
+--------------------------------------------------
+PID : 21420
+Name : conhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 21712
+Name : WhatsApp.Root.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 21744
+Name : WmiPrvSE.exe
+Username : None
+--------------------------------------------------
+PID : 21964
+Name : HP.HPX.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 22120
+Name : Code.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 22184
+Name : SearchHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 22340
+Name : HPSystemEventUtilityBackground.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 22484
+Name : wermgr.exe
+Username : None
+--------------------------------------------------
+PID : 22892
+Name : conhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 23052
+Name : fontdrvhost.exe
+Username : None
+--------------------------------------------------
+PID : 23620
+Name : ms-teams.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 23696
+Name : EMAILSCN.EXE
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 23776
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 23804
+Name : NP2120CL.EXE
+Username : None
+--------------------------------------------------
+PID : 23996
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24028
+Name : igfxEMN.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24096
+Name : cmd.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24144
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24184
+Name : svchost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24756
+Name : Notepad.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24800
+Name : SecurityHealthSystray.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24808
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 24816
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 25072
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 27828
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 28880
+Name : audiodg.exe
+Username : None
+--------------------------------------------------
+PID : 29840
+Name : FileCoAuth.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 29880
+Name : OCTACORE.EXE
+Username : None
+--------------------------------------------------
+PID : 29932
+Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 30668
+Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.tmp
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 36880
+Name : dllhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 42804
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 47512
+Name : cmd.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 47544
+Name : conhost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 47592
+Name : OpenConsole.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 47644
+Name : WindowsTerminal.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 50260
+Name : conhost.exe
+Username : None
+--------------------------------------------------
+PID : 50264
+Name : WaaSMedicAgent.exe
+Username : None
+--------------------------------------------------
+PID : 55724
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 63116
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 68684
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 71424
+Name : WmiApSrv.exe
+Username : None
+--------------------------------------------------
+PID : 72128
+Name : msedgewebview2.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 72364
+Name : python.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 122924
+Name : unsecapp.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 154116
+Name : SDXHelper.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 155120
+Name : HPSystemEventUtilityHost.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 155284
+Name : OneDrive.Sync.Service.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 156016
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 156500
+Name : chrome.exe
+Username : VEDASHREE-HKG\mahar
+--------------------------------------------------
+PID : 235688
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 235748
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 235960
+Name : svchost.exe
+Username : None
+--------------------------------------------------
+PID : 236224
+Name : svchost.exe
+Username : None
